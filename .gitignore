@@ -1,0 +1,12 @@
+/*
+
+!pom.xml
+!testRun.xml
+
+!.gitignore
+!/src
+!/resources
+
+/src/*
+!/src/main
+!/src/resources

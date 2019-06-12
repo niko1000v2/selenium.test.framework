@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestSuite" verbose="1" >
+
+    <parameter name="properties" value="customConfiguration.properties" />
+    <test name="Test" >
+        <classes>
+            <class name="selenium.test.framework.Tests.LoginTest" />
+            <class name="selenium.test.framework.Tests.AddEnvironmentTest" />
+            <class name="selenium.test.framework.Tests.AddVersionTest" />
+     </classes>
+    </test>
+</suite>
