@@ -25,7 +25,7 @@
         <selenium.version>3.141.59</selenium.version>
         <commons.version>2.6</commons.version>
         <opencsv.version>4.5</opencsv.version>
-        <log4j.version>2.11.2</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <extentreports.version>2.41.2</extentreports.version>
     </properties>
 
